@@ -9,6 +9,12 @@ ParascopyVC
 ParascopyVC is the variant calling module in the [Parascopy](https://github.com/tprodanov/parascopy) suite.
 ParascopyVC is designed to call variants in duplicated loci using short-read WGS.
 
-Created by Timofey Prodanov `timofey.prodanov[at]gmail.com` and Vikas Bansal `vibansal[at]health.ucsd.edu` at the University of California San Diego.
+Created by Timofey Prodanov `timofey.prodanov[at]hhu.de` and Vikas Bansal `vibansal[at]health.ucsd.edu` at the University of California San Diego.
 
 Please see the [Parascopy repository](https://github.com/tprodanov/parascopy) for more information.
+
+Reproducing experiments and analysis
+------------------------------------
+
+Please check [this readme](reproducing/README.md) to find information on how to reproduce experiments and analysis,
+performed for the paper submission.
