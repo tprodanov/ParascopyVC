@@ -1,6 +1,6 @@
 library(zeallot)
 
-WDIR <- '~/Code/ParascopyVC-extra/plots/'
+WDIR <- 'ParascopyVC/reproducing/plots/'
 source(file.path(WDIR, 'common.r'))
 setwd('~/Data/proj/Benchmarks/')
 plotdir <- file.path(getwd(), 'plots')
